@@ -1,0 +1,581 @@
+fileFormatVersion: 2
+guid: 58d65e5fa77d4a74e9a04b62cbdf1fb1
+timeCreated: 1493579804
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Mesh1 Model_cell
+    100004: Mesh1 Model_cell.001
+    100006: Mesh1 Model_cell.002
+    100008: Mesh1 Model_cell.003
+    100010: Mesh1 Model_cell.004
+    100012: Mesh1 Model_cell.005
+    100014: Mesh1 Model_cell.006
+    100016: Mesh1 Model_cell.007
+    100018: Mesh1 Model_cell.008
+    100020: Mesh1 Model_cell.009
+    100022: Mesh1 Model_cell.010
+    100024: Mesh1 Model_cell.011
+    100026: Mesh1 Model_cell.012
+    100028: Mesh1 Model_cell.013
+    100030: Mesh1 Model_cell.014
+    100032: Mesh1 Model_cell.015
+    100034: Mesh1 Model_cell.016
+    100036: Mesh1 Model_cell.017
+    100038: Mesh1 Model_cell.018
+    100040: Mesh1 Model_cell.019
+    100042: Mesh1 Model_cell.020
+    100044: Mesh1 Model_cell.021
+    100046: Mesh1 Model_cell.022
+    100048: Mesh1 Model_cell.023
+    100050: Mesh1 Model_cell.024
+    100052: Mesh1 Model_cell.025
+    100054: Mesh1 Model_cell.026
+    100056: Mesh1 Model_cell.027
+    100058: Mesh1 Model_cell.028
+    100060: Mesh1 Model_cell.029
+    100062: Mesh1 Model_cell.030
+    100064: Mesh1 Model_cell.031
+    100066: Mesh1 Model_cell.032
+    100068: Mesh1 Model_cell.033
+    100070: Mesh1 Model_cell.034
+    100072: Mesh1 Model_cell.035
+    100074: Mesh1 Model_cell.036
+    100076: Mesh1 Model_cell.037
+    100078: Mesh1 Model_cell.038
+    100080: Mesh1 Model_cell.039
+    100082: Mesh1 Model_cell.040
+    100084: Mesh1 Model_cell.041
+    100086: Mesh1 Model_cell.042
+    100088: Mesh1 Model_cell.043
+    100090: Mesh1 Model_cell.044
+    100092: Mesh1 Model_cell.045
+    100094: Mesh1 Model_cell.046
+    100096: Mesh1 Model_cell.047
+    100098: Mesh1 Model_cell.048
+    100100: Mesh1 Model_cell.049
+    100102: Mesh1 Model_cell.050
+    100104: Mesh1 Model_cell.051
+    100106: Mesh1 Model_cell.052
+    100108: Mesh1 Model_cell.053
+    100110: Mesh1 Model_cell.054
+    100112: Mesh1 Model_cell.055
+    100114: Mesh1 Model_cell.056
+    100116: Mesh1 Model_cell.057
+    100118: Mesh1 Model_cell.058
+    100120: Mesh1 Model_cell.059
+    100122: Mesh1 Model_cell.060
+    100124: Mesh1 Model_cell.061
+    100126: Mesh1 Model_cell.062
+    100128: Mesh1 Model_cell.063
+    100130: Mesh1 Model_cell.064
+    100132: Mesh1 Model_cell.065
+    100134: Mesh1 Model_cell.066
+    100136: Mesh1 Model_cell.067
+    100138: Mesh1 Model_cell.068
+    100140: Mesh1 Model_cell.069
+    100142: Mesh1 Model_cell.070
+    100144: Mesh1 Model_cell.071
+    100146: Mesh1 Model_cell.072
+    100148: Mesh1 Model_cell.073
+    100150: Mesh1 Model_cell.074
+    100152: Mesh1 Model_cell.075
+    100154: Mesh1 Model_cell.076
+    100156: Mesh1 Model_cell.077
+    100158: Mesh1 Model_cell.078
+    100160: Mesh1 Model_cell.079
+    100162: Mesh1 Model_cell.080
+    100164: Mesh1 Model_cell.081
+    100166: Mesh1 Model_cell.082
+    100168: Mesh1 Model_cell.083
+    400000: //RootNode
+    400002: Mesh1 Model_cell
+    400004: Mesh1 Model_cell.001
+    400006: Mesh1 Model_cell.002
+    400008: Mesh1 Model_cell.003
+    400010: Mesh1 Model_cell.004
+    400012: Mesh1 Model_cell.005
+    400014: Mesh1 Model_cell.006
+    400016: Mesh1 Model_cell.007
+    400018: Mesh1 Model_cell.008
+    400020: Mesh1 Model_cell.009
+    400022: Mesh1 Model_cell.010
+    400024: Mesh1 Model_cell.011
+    400026: Mesh1 Model_cell.012
+    400028: Mesh1 Model_cell.013
+    400030: Mesh1 Model_cell.014
+    400032: Mesh1 Model_cell.015
+    400034: Mesh1 Model_cell.016
+    400036: Mesh1 Model_cell.017
+    400038: Mesh1 Model_cell.018
+    400040: Mesh1 Model_cell.019
+    400042: Mesh1 Model_cell.020
+    400044: Mesh1 Model_cell.021
+    400046: Mesh1 Model_cell.022
+    400048: Mesh1 Model_cell.023
+    400050: Mesh1 Model_cell.024
+    400052: Mesh1 Model_cell.025
+    400054: Mesh1 Model_cell.026
+    400056: Mesh1 Model_cell.027
+    400058: Mesh1 Model_cell.028
+    400060: Mesh1 Model_cell.029
+    400062: Mesh1 Model_cell.030
+    400064: Mesh1 Model_cell.031
+    400066: Mesh1 Model_cell.032
+    400068: Mesh1 Model_cell.033
+    400070: Mesh1 Model_cell.034
+    400072: Mesh1 Model_cell.035
+    400074: Mesh1 Model_cell.036
+    400076: Mesh1 Model_cell.037
+    400078: Mesh1 Model_cell.038
+    400080: Mesh1 Model_cell.039
+    400082: Mesh1 Model_cell.040
+    400084: Mesh1 Model_cell.041
+    400086: Mesh1 Model_cell.042
+    400088: Mesh1 Model_cell.043
+    400090: Mesh1 Model_cell.044
+    400092: Mesh1 Model_cell.045
+    400094: Mesh1 Model_cell.046
+    400096: Mesh1 Model_cell.047
+    400098: Mesh1 Model_cell.048
+    400100: Mesh1 Model_cell.049
+    400102: Mesh1 Model_cell.050
+    400104: Mesh1 Model_cell.051
+    400106: Mesh1 Model_cell.052
+    400108: Mesh1 Model_cell.053
+    400110: Mesh1 Model_cell.054
+    400112: Mesh1 Model_cell.055
+    400114: Mesh1 Model_cell.056
+    400116: Mesh1 Model_cell.057
+    400118: Mesh1 Model_cell.058
+    400120: Mesh1 Model_cell.059
+    400122: Mesh1 Model_cell.060
+    400124: Mesh1 Model_cell.061
+    400126: Mesh1 Model_cell.062
+    400128: Mesh1 Model_cell.063
+    400130: Mesh1 Model_cell.064
+    400132: Mesh1 Model_cell.065
+    400134: Mesh1 Model_cell.066
+    400136: Mesh1 Model_cell.067
+    400138: Mesh1 Model_cell.068
+    400140: Mesh1 Model_cell.069
+    400142: Mesh1 Model_cell.070
+    400144: Mesh1 Model_cell.071
+    400146: Mesh1 Model_cell.072
+    400148: Mesh1 Model_cell.073
+    400150: Mesh1 Model_cell.074
+    400152: Mesh1 Model_cell.075
+    400154: Mesh1 Model_cell.076
+    400156: Mesh1 Model_cell.077
+    400158: Mesh1 Model_cell.078
+    400160: Mesh1 Model_cell.079
+    400162: Mesh1 Model_cell.080
+    400164: Mesh1 Model_cell.081
+    400166: Mesh1 Model_cell.082
+    400168: Mesh1 Model_cell.083
+    2300000: Mesh1 Model_cell
+    2300002: Mesh1 Model_cell.001
+    2300004: Mesh1 Model_cell.002
+    2300006: Mesh1 Model_cell.003
+    2300008: Mesh1 Model_cell.004
+    2300010: Mesh1 Model_cell.005
+    2300012: Mesh1 Model_cell.006
+    2300014: Mesh1 Model_cell.007
+    2300016: Mesh1 Model_cell.008
+    2300018: Mesh1 Model_cell.009
+    2300020: Mesh1 Model_cell.010
+    2300022: Mesh1 Model_cell.011
+    2300024: Mesh1 Model_cell.012
+    2300026: Mesh1 Model_cell.013
+    2300028: Mesh1 Model_cell.014
+    2300030: Mesh1 Model_cell.015
+    2300032: Mesh1 Model_cell.016
+    2300034: Mesh1 Model_cell.017
+    2300036: Mesh1 Model_cell.018
+    2300038: Mesh1 Model_cell.019
+    2300040: Mesh1 Model_cell.020
+    2300042: Mesh1 Model_cell.021
+    2300044: Mesh1 Model_cell.022
+    2300046: Mesh1 Model_cell.023
+    2300048: Mesh1 Model_cell.024
+    2300050: Mesh1 Model_cell.025
+    2300052: Mesh1 Model_cell.026
+    2300054: Mesh1 Model_cell.027
+    2300056: Mesh1 Model_cell.028
+    2300058: Mesh1 Model_cell.029
+    2300060: Mesh1 Model_cell.030
+    2300062: Mesh1 Model_cell.031
+    2300064: Mesh1 Model_cell.032
+    2300066: Mesh1 Model_cell.033
+    2300068: Mesh1 Model_cell.034
+    2300070: Mesh1 Model_cell.035
+    2300072: Mesh1 Model_cell.036
+    2300074: Mesh1 Model_cell.037
+    2300076: Mesh1 Model_cell.038
+    2300078: Mesh1 Model_cell.039
+    2300080: Mesh1 Model_cell.040
+    2300082: Mesh1 Model_cell.041
+    2300084: Mesh1 Model_cell.042
+    2300086: Mesh1 Model_cell.043
+    2300088: Mesh1 Model_cell.044
+    2300090: Mesh1 Model_cell.045
+    2300092: Mesh1 Model_cell.046
+    2300094: Mesh1 Model_cell.047
+    2300096: Mesh1 Model_cell.048
+    2300098: Mesh1 Model_cell.049
+    2300100: Mesh1 Model_cell.050
+    2300102: Mesh1 Model_cell.051
+    2300104: Mesh1 Model_cell.052
+    2300106: Mesh1 Model_cell.053
+    2300108: Mesh1 Model_cell.054
+    2300110: Mesh1 Model_cell.055
+    2300112: Mesh1 Model_cell.056
+    2300114: Mesh1 Model_cell.057
+    2300116: Mesh1 Model_cell.058
+    2300118: Mesh1 Model_cell.059
+    2300120: Mesh1 Model_cell.060
+    2300122: Mesh1 Model_cell.061
+    2300124: Mesh1 Model_cell.062
+    2300126: Mesh1 Model_cell.063
+    2300128: Mesh1 Model_cell.064
+    2300130: Mesh1 Model_cell.065
+    2300132: Mesh1 Model_cell.066
+    2300134: Mesh1 Model_cell.067
+    2300136: Mesh1 Model_cell.068
+    2300138: Mesh1 Model_cell.069
+    2300140: Mesh1 Model_cell.070
+    2300142: Mesh1 Model_cell.071
+    2300144: Mesh1 Model_cell.072
+    2300146: Mesh1 Model_cell.073
+    2300148: Mesh1 Model_cell.074
+    2300150: Mesh1 Model_cell.075
+    2300152: Mesh1 Model_cell.076
+    2300154: Mesh1 Model_cell.077
+    2300156: Mesh1 Model_cell.078
+    2300158: Mesh1 Model_cell.079
+    2300160: Mesh1 Model_cell.080
+    2300162: Mesh1 Model_cell.081
+    2300164: Mesh1 Model_cell.082
+    2300166: Mesh1 Model_cell.083
+    3300000: Mesh1 Model_cell
+    3300002: Mesh1 Model_cell.001
+    3300004: Mesh1 Model_cell.002
+    3300006: Mesh1 Model_cell.003
+    3300008: Mesh1 Model_cell.004
+    3300010: Mesh1 Model_cell.005
+    3300012: Mesh1 Model_cell.006
+    3300014: Mesh1 Model_cell.007
+    3300016: Mesh1 Model_cell.008
+    3300018: Mesh1 Model_cell.009
+    3300020: Mesh1 Model_cell.010
+    3300022: Mesh1 Model_cell.011
+    3300024: Mesh1 Model_cell.012
+    3300026: Mesh1 Model_cell.013
+    3300028: Mesh1 Model_cell.014
+    3300030: Mesh1 Model_cell.015
+    3300032: Mesh1 Model_cell.016
+    3300034: Mesh1 Model_cell.017
+    3300036: Mesh1 Model_cell.018
+    3300038: Mesh1 Model_cell.019
+    3300040: Mesh1 Model_cell.020
+    3300042: Mesh1 Model_cell.021
+    3300044: Mesh1 Model_cell.022
+    3300046: Mesh1 Model_cell.023
+    3300048: Mesh1 Model_cell.024
+    3300050: Mesh1 Model_cell.025
+    3300052: Mesh1 Model_cell.026
+    3300054: Mesh1 Model_cell.027
+    3300056: Mesh1 Model_cell.028
+    3300058: Mesh1 Model_cell.029
+    3300060: Mesh1 Model_cell.030
+    3300062: Mesh1 Model_cell.031
+    3300064: Mesh1 Model_cell.032
+    3300066: Mesh1 Model_cell.033
+    3300068: Mesh1 Model_cell.034
+    3300070: Mesh1 Model_cell.035
+    3300072: Mesh1 Model_cell.036
+    3300074: Mesh1 Model_cell.037
+    3300076: Mesh1 Model_cell.038
+    3300078: Mesh1 Model_cell.039
+    3300080: Mesh1 Model_cell.040
+    3300082: Mesh1 Model_cell.041
+    3300084: Mesh1 Model_cell.042
+    3300086: Mesh1 Model_cell.043
+    3300088: Mesh1 Model_cell.044
+    3300090: Mesh1 Model_cell.045
+    3300092: Mesh1 Model_cell.046
+    3300094: Mesh1 Model_cell.047
+    3300096: Mesh1 Model_cell.048
+    3300098: Mesh1 Model_cell.049
+    3300100: Mesh1 Model_cell.050
+    3300102: Mesh1 Model_cell.051
+    3300104: Mesh1 Model_cell.052
+    3300106: Mesh1 Model_cell.053
+    3300108: Mesh1 Model_cell.054
+    3300110: Mesh1 Model_cell.055
+    3300112: Mesh1 Model_cell.056
+    3300114: Mesh1 Model_cell.057
+    3300116: Mesh1 Model_cell.058
+    3300118: Mesh1 Model_cell.059
+    3300120: Mesh1 Model_cell.060
+    3300122: Mesh1 Model_cell.061
+    3300124: Mesh1 Model_cell.062
+    3300126: Mesh1 Model_cell.063
+    3300128: Mesh1 Model_cell.064
+    3300130: Mesh1 Model_cell.065
+    3300132: Mesh1 Model_cell.066
+    3300134: Mesh1 Model_cell.067
+    3300136: Mesh1 Model_cell.068
+    3300138: Mesh1 Model_cell.069
+    3300140: Mesh1 Model_cell.070
+    3300142: Mesh1 Model_cell.071
+    3300144: Mesh1 Model_cell.072
+    3300146: Mesh1 Model_cell.073
+    3300148: Mesh1 Model_cell.074
+    3300150: Mesh1 Model_cell.075
+    3300152: Mesh1 Model_cell.076
+    3300154: Mesh1 Model_cell.077
+    3300156: Mesh1 Model_cell.078
+    3300158: Mesh1 Model_cell.079
+    3300160: Mesh1 Model_cell.080
+    3300162: Mesh1 Model_cell.081
+    3300164: Mesh1 Model_cell.082
+    3300166: Mesh1 Model_cell.083
+    4300000: Mesh1 Model_cell.083
+    4300002: Mesh1 Model_cell.082
+    4300004: Mesh1 Model_cell.081
+    4300006: Mesh1 Model_cell.080
+    4300008: Mesh1 Model_cell.079
+    4300010: Mesh1 Model_cell.045
+    4300012: Mesh1 Model_cell.031
+    4300014: Mesh1 Model_cell.003
+    4300016: Mesh1 Model_cell.078
+    4300018: Mesh1 Model_cell.077
+    4300020: Mesh1 Model_cell.076
+    4300022: Mesh1 Model_cell.075
+    4300024: Mesh1 Model_cell.074
+    4300026: Mesh1 Model_cell.073
+    4300028: Mesh1 Model_cell.072
+    4300030: Mesh1 Model_cell.071
+    4300032: Mesh1 Model_cell.070
+    4300034: Mesh1 Model_cell.069
+    4300036: Mesh1 Model_cell.068
+    4300038: Mesh1 Model_cell.067
+    4300040: Mesh1 Model_cell.066
+    4300042: Mesh1 Model_cell.065
+    4300044: Mesh1 Model_cell.064
+    4300046: Mesh1 Model_cell.063
+    4300048: Mesh1 Model_cell.062
+    4300050: Mesh1 Model_cell.061
+    4300052: Mesh1 Model_cell.060
+    4300054: Mesh1 Model_cell.059
+    4300056: Mesh1 Model_cell.058
+    4300058: Mesh1 Model_cell.057
+    4300060: Mesh1 Model_cell.056
+    4300062: Mesh1 Model_cell.055
+    4300064: Mesh1 Model_cell.054
+    4300066: Mesh1 Model_cell.053
+    4300068: Mesh1 Model_cell.052
+    4300070: Mesh1 Model_cell.051
+    4300072: Mesh1 Model_cell.050
+    4300074: Mesh1 Model_cell.049
+    4300076: Mesh1 Model_cell.048
+    4300078: Mesh1 Model_cell.047
+    4300080: Mesh1 Model_cell.046
+    4300082: Mesh1 Model_cell.044
+    4300084: Mesh1 Model_cell.043
+    4300086: Mesh1 Model_cell.042
+    4300088: Mesh1 Model_cell.041
+    4300090: Mesh1 Model_cell.040
+    4300092: Mesh1 Model_cell.039
+    4300094: Mesh1 Model_cell.038
+    4300096: Mesh1 Model_cell.037
+    4300098: Mesh1 Model_cell.036
+    4300100: Mesh1 Model_cell.035
+    4300102: Mesh1 Model_cell.034
+    4300104: Mesh1 Model_cell.033
+    4300106: Mesh1 Model_cell.032
+    4300108: Mesh1 Model_cell.030
+    4300110: Mesh1 Model_cell.029
+    4300112: Mesh1 Model_cell.028
+    4300114: Mesh1 Model_cell.027
+    4300116: Mesh1 Model_cell.026
+    4300118: Mesh1 Model_cell.025
+    4300120: Mesh1 Model_cell.024
+    4300122: Mesh1 Model_cell.023
+    4300124: Mesh1 Model_cell.022
+    4300126: Mesh1 Model_cell.021
+    4300128: Mesh1 Model_cell.020
+    4300130: Mesh1 Model_cell.019
+    4300132: Mesh1 Model_cell.018
+    4300134: Mesh1 Model_cell.017
+    4300136: Mesh1 Model_cell.016
+    4300138: Mesh1 Model_cell.015
+    4300140: Mesh1 Model_cell.014
+    4300142: Mesh1 Model_cell.013
+    4300144: Mesh1 Model_cell.012
+    4300146: Mesh1 Model_cell.011
+    4300148: Mesh1 Model_cell.010
+    4300150: Mesh1 Model_cell.009
+    4300152: Mesh1 Model_cell.008
+    4300154: Mesh1 Model_cell.007
+    4300156: Mesh1 Model_cell.006
+    4300158: Mesh1 Model_cell.005
+    4300160: Mesh1 Model_cell.004
+    4300162: Mesh1 Model_cell.002
+    4300164: Mesh1 Model_cell.001
+    4300166: Mesh1 Model_cell
+    6400000: Mesh1 Model_cell
+    6400002: Mesh1 Model_cell.001
+    6400004: Mesh1 Model_cell.002
+    6400006: Mesh1 Model_cell.003
+    6400008: Mesh1 Model_cell.004
+    6400010: Mesh1 Model_cell.005
+    6400012: Mesh1 Model_cell.006
+    6400014: Mesh1 Model_cell.007
+    6400016: Mesh1 Model_cell.008
+    6400018: Mesh1 Model_cell.009
+    6400020: Mesh1 Model_cell.010
+    6400022: Mesh1 Model_cell.011
+    6400024: Mesh1 Model_cell.012
+    6400026: Mesh1 Model_cell.013
+    6400028: Mesh1 Model_cell.014
+    6400030: Mesh1 Model_cell.015
+    6400032: Mesh1 Model_cell.016
+    6400034: Mesh1 Model_cell.017
+    6400036: Mesh1 Model_cell.018
+    6400038: Mesh1 Model_cell.019
+    6400040: Mesh1 Model_cell.020
+    6400042: Mesh1 Model_cell.021
+    6400044: Mesh1 Model_cell.022
+    6400046: Mesh1 Model_cell.023
+    6400048: Mesh1 Model_cell.024
+    6400050: Mesh1 Model_cell.025
+    6400052: Mesh1 Model_cell.026
+    6400054: Mesh1 Model_cell.027
+    6400056: Mesh1 Model_cell.028
+    6400058: Mesh1 Model_cell.029
+    6400060: Mesh1 Model_cell.030
+    6400062: Mesh1 Model_cell.031
+    6400064: Mesh1 Model_cell.032
+    6400066: Mesh1 Model_cell.033
+    6400068: Mesh1 Model_cell.034
+    6400070: Mesh1 Model_cell.035
+    6400072: Mesh1 Model_cell.036
+    6400074: Mesh1 Model_cell.037
+    6400076: Mesh1 Model_cell.038
+    6400078: Mesh1 Model_cell.039
+    6400080: Mesh1 Model_cell.040
+    6400082: Mesh1 Model_cell.041
+    6400084: Mesh1 Model_cell.042
+    6400086: Mesh1 Model_cell.043
+    6400088: Mesh1 Model_cell.044
+    6400090: Mesh1 Model_cell.045
+    6400092: Mesh1 Model_cell.046
+    6400094: Mesh1 Model_cell.047
+    6400096: Mesh1 Model_cell.048
+    6400098: Mesh1 Model_cell.049
+    6400100: Mesh1 Model_cell.050
+    6400102: Mesh1 Model_cell.051
+    6400104: Mesh1 Model_cell.052
+    6400106: Mesh1 Model_cell.053
+    6400108: Mesh1 Model_cell.054
+    6400110: Mesh1 Model_cell.055
+    6400112: Mesh1 Model_cell.056
+    6400114: Mesh1 Model_cell.057
+    6400116: Mesh1 Model_cell.058
+    6400118: Mesh1 Model_cell.059
+    6400120: Mesh1 Model_cell.060
+    6400122: Mesh1 Model_cell.061
+    6400124: Mesh1 Model_cell.062
+    6400126: Mesh1 Model_cell.063
+    6400128: Mesh1 Model_cell.064
+    6400130: Mesh1 Model_cell.065
+    6400132: Mesh1 Model_cell.066
+    6400134: Mesh1 Model_cell.067
+    6400136: Mesh1 Model_cell.068
+    6400138: Mesh1 Model_cell.069
+    6400140: Mesh1 Model_cell.070
+    6400142: Mesh1 Model_cell.071
+    6400144: Mesh1 Model_cell.072
+    6400146: Mesh1 Model_cell.073
+    6400148: Mesh1 Model_cell.074
+    6400150: Mesh1 Model_cell.075
+    6400152: Mesh1 Model_cell.076
+    6400154: Mesh1 Model_cell.077
+    6400156: Mesh1 Model_cell.078
+    6400158: Mesh1 Model_cell.079
+    6400160: Mesh1 Model_cell.080
+    6400162: Mesh1 Model_cell.081
+    6400164: Mesh1 Model_cell.082
+    6400166: Mesh1 Model_cell.083
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 2
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
